@@ -11,6 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6e005b3-da7a-494c-b5ea-8634f46e8811" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/login-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/standings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +45,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
