@@ -12,11 +12,7 @@
     color: #ffffff;
     text-align: left;
 }
-.styled-table tmain tr {
-    background-color: #009879;
-    color: #ffffff;
-    text-align: center;
-}
+
 
 .styled-table th,
 .styled-table td {
